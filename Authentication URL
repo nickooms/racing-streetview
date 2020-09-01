@@ -1,0 +1,5 @@
+Authentication URL
+
+https://www.mapillary.com/connect?client_id=bUNjMTJyMXROWUd2aUhEM0U3RFVYQTpiZjZkMDVhNDNmNTE4NjEw&response_type=token&scope=&redirect_uri=https://nickooms.github.io/racing-street-view
+
+https://a.mapillary.com/v3/images/`https://a.mapillary.com/v3/object_detections/trafficsigns?client_id=bUNjMTJyMXROWUd2aUhEM0U3RFVYQTpiZjZkMDVhNDNmNTE4NjEw&image_keys=${image}`6X8oWoZ0T78tvicHQaxUkg/object_detections/trafficsigns?client_id=bUNjMTJyMXROWUd2aUhEM0U3RFVYQTpiZjZkMDVhNDNmNTE4NjEw

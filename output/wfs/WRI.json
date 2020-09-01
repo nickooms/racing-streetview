@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Feature",
+    "id": "WRI.164234",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152506.752973,
+        221861.346012
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 521436,
+      "OIDN": 432142,
+      "TYPE": 1,
+      "LBLTYPE": "cirkelvormig putdeksel",
+      "METH": 1,
+      "LBLMETH": "terrestrische opname",
+      "H": 6.01,
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152506.752973,
+        221861.346012,
+        152506.752973,
+        221861.346012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WRI.265964",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152594.568013,
+        221877.099996
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 521724,
+      "OIDN": 432430,
+      "TYPE": 1,
+      "LBLTYPE": "cirkelvormig putdeksel",
+      "METH": 1,
+      "LBLMETH": "terrestrische opname",
+      "H": 5.57,
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152594.568013,
+        221877.099996,
+        152594.568013,
+        221877.099996
+      ]
+    }
+  }
+]

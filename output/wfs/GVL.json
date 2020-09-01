@@ -1,0 +1,3034 @@
+[
+  {
+    "type": "Feature",
+    "id": "GVL.9590446",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152540.124365,
+          221869.45942
+        ],
+        [
+          152537.545677,
+          221877.814108
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687243,
+      "OIDN": 12905391,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152537.545677,
+        221869.45942,
+        152540.124365,
+        221877.814108
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9540671",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152541.624013,
+          221857.346012
+        ],
+        [
+          152538.990413,
+          221867.113052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687239,
+      "OIDN": 12905387,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152538.990413,
+        221857.346012,
+        152541.624013,
+        221867.113052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9777991",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152510.141005,
+          221872.44694
+        ],
+        [
+          152509.983053,
+          221872.713052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685723,
+      "OIDN": 12903871,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152509.983053,
+        221872.44694,
+        152510.141005,
+        221872.713052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9664615",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152510.152013,
+          221872.81494
+        ],
+        [
+          152507.632845,
+          221876.972956
+        ],
+        [
+          152507.398989,
+          221877.35894
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685725,
+      "OIDN": 12903873,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152507.398989,
+        221872.81494,
+        152510.152013,
+        221877.35894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9575567",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152558.108365,
+          221879.486428
+        ],
+        [
+          152559.143437,
+          221876.941532
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687750,
+      "OIDN": 12905898,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152558.108365,
+        221876.941532,
+        152559.143437,
+        221879.486428
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9727094",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152498.894029,
+          221873.727964
+        ],
+        [
+          152496.650061,
+          221878.339036
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685735,
+      "OIDN": 12903883,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152496.650061,
+        221873.727964,
+        152498.894029,
+        221878.339036
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30466680",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152553.784397,
+          221877.678236
+        ],
+        [
+          152558.108365,
+          221879.486428
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39003313,
+      "OIDN": 36525179,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152553.784397,
+        221877.678236,
+        152558.108365,
+        221879.486428
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9794768",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152499.054029,
+          221873.444956
+        ],
+        [
+          152498.852941,
+          221873.34998
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685732,
+      "OIDN": 12903880,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152498.852941,
+        221873.34998,
+        152499.054029,
+        221873.444956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9995197",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152546.107981,
+          221858.571996
+        ],
+        [
+          152546.436045,
+          221857.449052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687231,
+      "OIDN": 12905379,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152546.107981,
+        221857.449052,
+        152546.436045,
+        221858.571996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9952051",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152529.280717,
+          221866.467292
+        ],
+        [
+          152527.274445,
+          221865.236188
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14686617,
+      "OIDN": 12904765,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152527.274445,
+        221865.236188,
+        152529.280717,
+        221866.467292
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10097627",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152583.837005,
+          221876.346972
+        ],
+        [
+          152582.539981,
+          221878.201052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688135,
+      "OIDN": 12906283,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152582.539981,
+        221876.346972,
+        152583.837005,
+        221878.201052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10219078",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152513.067981,
+          221867.984988
+        ],
+        [
+          152510.313037,
+          221872.548956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685721,
+      "OIDN": 12903869,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152510.313037,
+        221867.984988,
+        152513.067981,
+        221872.548956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10221199",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152507.398989,
+          221877.35894
+        ],
+        [
+          152507.226957,
+          221877.257052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685726,
+      "OIDN": 12903874,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152507.226957,
+        221877.257052,
+        152507.398989,
+        221877.35894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10117716",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152513.056973,
+          221867.615964
+        ],
+        [
+          152512.899021,
+          221867.882972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685719,
+      "OIDN": 12903867,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152512.899021,
+        221867.615964,
+        152513.056973,
+        221867.882972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9718504",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152582.628941,
+          221856.939996
+        ],
+        [
+          152595.497037,
+          221865.524956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688468,
+      "OIDN": 12906616,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152582.628941,
+        221856.939996,
+        152595.497037,
+        221865.524956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9845717",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152551.169997,
+          221859.986012
+        ],
+        [
+          152546.281997,
+          221858.62294
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687357,
+      "OIDN": 12905505,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152546.281997,
+        221858.62294,
+        152551.169997,
+        221859.986012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.35698765",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152519.167181,
+          221857.866908
+        ],
+        [
+          152519.032013,
+          221857.786972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 44890956,
+      "OIDN": 41410511,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2018-12-03",
+      "bbox": [
+        152519.032013,
+        221857.786972,
+        152519.167181,
+        221857.866908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9627607",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152496.650061,
+          221878.339036
+        ],
+        [
+          152496.468941,
+          221878.25302
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685736,
+      "OIDN": 12903884,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152496.468941,
+        221878.25302,
+        152496.650061,
+        221878.339036
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.28122956",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152604.871757,
+          221862.101212
+        ],
+        [
+          152599.921613,
+          221858.867292
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36864868,
+      "OIDN": 34657224,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152599.921613,
+        221858.867292,
+        152604.871757,
+        221862.101212
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10143166",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152564.176909,
+          221864.56406
+        ],
+        [
+          152560.244045,
+          221862.276956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687752,
+      "OIDN": 12905900,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152560.244045,
+        221862.276956,
+        152564.176909,
+        221864.56406
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.35698788",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152519.167181,
+          221857.866908
+        ],
+        [
+          152528.438477,
+          221863.348188
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 44890984,
+      "OIDN": 12904767,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2018-12-03",
+      "bbox": [
+        152519.167181,
+        221857.866908,
+        152528.438477,
+        221863.348188
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10060278",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152610.515149,
+          221864.586076
+        ],
+        [
+          152609.023821,
+          221863.599836
+        ],
+        [
+          152605.439821,
+          221861.231708
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688883,
+      "OIDN": 12907031,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152605.439821,
+        221861.231708,
+        152610.515149,
+        221864.586076
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10267033",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152568.061965,
+          221866.905052
+        ],
+        [
+          152564.176909,
+          221864.56406
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687847,
+      "OIDN": 12905995,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152564.176909,
+        221864.56406,
+        152568.061965,
+        221866.905052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10179405",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152600.473037,
+          221868.834012
+        ],
+        [
+          152604.793293,
+          221871.760924
+        ],
+        [
+          152608.975053,
+          221874.594012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688884,
+      "OIDN": 12907032,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152600.473037,
+        221868.834012,
+        152608.975053,
+        221874.594012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10250165",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152545.514957,
+          221856.535004
+        ],
+        [
+          152544.986957,
+          221855.584988
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687234,
+      "OIDN": 12905382,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152544.986957,
+        221855.584988,
+        152545.514957,
+        221856.535004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10124921",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152582.539981,
+          221878.201052
+        ],
+        [
+          152581.610061,
+          221877.650012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688136,
+      "OIDN": 12906284,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152581.610061,
+        221877.650012,
+        152582.539981,
+        221878.201052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9600749",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152499.141965,
+          221873.274972
+        ],
+        [
+          152499.054029,
+          221873.444956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685731,
+      "OIDN": 12903879,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152499.054029,
+        221873.274972,
+        152499.141965,
+        221873.444956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9601353",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152526.857677,
+          221870.603676
+        ],
+        [
+          152515.398989,
+          221863.843036
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685713,
+      "OIDN": 12903861,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152515.398989,
+        221863.843036,
+        152526.857677,
+        221870.603676
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.27444369",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152563.889357,
+          221879.01782
+        ],
+        [
+          152568.061965,
+          221866.905052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36862696,
+      "OIDN": 34655052,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152563.889357,
+        221866.905052,
+        152568.061965,
+        221879.01782
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9562790",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152499.418957,
+          221873.391964
+        ],
+        [
+          152499.141965,
+          221873.274972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685730,
+      "OIDN": 12903878,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152499.141965,
+        221873.274972,
+        152499.418957,
+        221873.391964
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9910114",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152496.468941,
+          221878.25302
+        ],
+        [
+          152496.335053,
+          221878.535004
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685737,
+      "OIDN": 12903885,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152496.335053,
+        221878.25302,
+        152496.468941,
+        221878.535004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.37530311",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152532.863501,
+          221860.82454
+        ],
+        [
+          152538.632333,
+          221863.929564
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 46774714,
+      "OIDN": 42587080,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2020-02-13",
+      "bbox": [
+        152532.863501,
+        221860.82454,
+        152538.632333,
+        221863.929564
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10175409",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152548.820173,
+          221872.65302
+        ],
+        [
+          152548.538317,
+          221874.012252
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687531,
+      "OIDN": 12905679,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152548.538317,
+        221872.65302,
+        152548.820173,
+        221874.012252
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30082594",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152555.221709,
+          221874.315676
+        ],
+        [
+          152553.784397,
+          221877.678236
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39003312,
+      "OIDN": 36525178,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152553.784397,
+        221874.315676,
+        152555.221709,
+        221877.678236
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9728741",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152577.305101,
+          221853.066972
+        ],
+        [
+          152582.628941,
+          221856.939996
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688348,
+      "OIDN": 12906496,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152577.305101,
+        221853.066972,
+        152582.628941,
+        221856.939996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9579759",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152539.535053,
+          221867.221852
+        ],
+        [
+          152539.039053,
+          221869.208796
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687241,
+      "OIDN": 12905389,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152539.039053,
+        221867.221852,
+        152539.535053,
+        221869.208796
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.35698700",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152521.089997,
+          221854.623004
+        ],
+        [
+          152520.829517,
+          221855.062428
+        ],
+        [
+          152519.167181,
+          221857.866908
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 44890891,
+      "OIDN": 41410446,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2018-12-03",
+      "bbox": [
+        152519.167181,
+        221854.623004,
+        152521.089997,
+        221857.866908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10005855",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152498.852941,
+          221873.34998
+        ],
+        [
+          152498.714957,
+          221873.62006
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685733,
+      "OIDN": 12903881,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152498.714957,
+        221873.34998,
+        152498.852941,
+        221873.62006
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30584299",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152607.548429,
+          221858.004188
+        ],
+        [
+          152589.940877,
+          221846.369884
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39001490,
+      "OIDN": 36523356,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152589.940877,
+        221846.369884,
+        152607.548429,
+        221858.004188
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9567399",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152559.143437,
+          221876.941532
+        ],
+        [
+          152564.176909,
+          221864.56406
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687751,
+      "OIDN": 12905899,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152559.143437,
+        221864.56406,
+        152564.176909,
+        221876.941532
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9581657",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152507.226957,
+          221877.257052
+        ],
+        [
+          152507.181005,
+          221877.346012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685727,
+      "OIDN": 12903875,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152507.181005,
+        221877.257052,
+        152507.226957,
+        221877.346012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9609334",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152496.483021,
+          221878.569948
+        ],
+        [
+          152494.127053,
+          221883.353052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685739,
+      "OIDN": 12903887,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152494.127053,
+        221878.569948,
+        152496.483021,
+        221883.353052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9645822",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152581.610061,
+          221877.650012
+        ],
+        [
+          152578.830029,
+          221882.329948
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688137,
+      "OIDN": 12906285,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152578.830029,
+        221877.650012,
+        152581.610061,
+        221882.329948
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9677947",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152507.181005,
+          221877.346012
+        ],
+        [
+          152499.379021,
+          221873.48502
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685728,
+      "OIDN": 12903876,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152499.379021,
+        221873.48502,
+        152507.181005,
+        221877.346012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9695632",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152546.281997,
+          221858.62294
+        ],
+        [
+          152546.107981,
+          221858.571996
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687230,
+      "OIDN": 12905378,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152546.107981,
+        221858.571996,
+        152546.281997,
+        221858.62294
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9723623",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152510.313037,
+          221872.548956
+        ],
+        [
+          152510.141005,
+          221872.44694
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685722,
+      "OIDN": 12903870,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152510.141005,
+        221872.44694,
+        152510.313037,
+        221872.548956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9724144",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152546.797389,
+          221872.101852
+        ],
+        [
+          152548.820173,
+          221872.65302
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687530,
+      "OIDN": 12905678,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152546.797389,
+        221872.101852,
+        152548.820173,
+        221872.65302
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9794146",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152572.987469,
+          221886.12502
+        ],
+        [
+          152580.182029,
+          221874.151004
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687877,
+      "OIDN": 12906025,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152572.987469,
+        221874.151004,
+        152580.182029,
+        221886.12502
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9814364",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152589.493965,
+          221879.753052
+        ],
+        [
+          152583.837005,
+          221876.346972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688134,
+      "OIDN": 12906282,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152583.837005,
+        221876.346972,
+        152589.493965,
+        221879.753052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9817779",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152610.574413,
+          221853.372508
+        ],
+        [
+          152608.573517,
+          221856.435164
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688880,
+      "OIDN": 12907028,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152608.573517,
+        221853.372508,
+        152610.574413,
+        221856.435164
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9822573",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152515.201997,
+          221864.206044
+        ],
+        [
+          152513.229005,
+          221867.719004
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685717,
+      "OIDN": 12903865,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152513.229005,
+        221864.206044,
+        152515.201997,
+        221867.719004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9828301",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152608.573517,
+          221856.435164
+        ],
+        [
+          152613.792077,
+          221859.429724
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688881,
+      "OIDN": 12907029,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152608.573517,
+        221856.435164,
+        152613.792077,
+        221859.429724
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9834922",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152539.039053,
+          221869.208796
+        ],
+        [
+          152540.124365,
+          221869.45942
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687242,
+      "OIDN": 12905390,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152539.039053,
+        221869.208796,
+        152540.124365,
+        221869.45942
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9864130",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152499.379021,
+          221873.48502
+        ],
+        [
+          152499.418957,
+          221873.391964
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685729,
+      "OIDN": 12903877,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152499.379021,
+        221873.391964,
+        152499.418957,
+        221873.48502
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9886100",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152513.229005,
+          221867.719004
+        ],
+        [
+          152513.056973,
+          221867.615964
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685718,
+      "OIDN": 12903866,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152513.056973,
+        221867.615964,
+        152513.229005,
+        221867.719004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9890991",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152550.655053,
+          221874.447452
+        ],
+        [
+          152551.068237,
+          221873.245404
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687524,
+      "OIDN": 12905672,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152550.655053,
+        221873.245404,
+        152551.068237,
+        221874.447452
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9932450",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152551.068237,
+          221873.245404
+        ],
+        [
+          152555.221709,
+          221874.315676
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687525,
+      "OIDN": 12905673,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152551.068237,
+        221873.245404,
+        152555.221709,
+        221874.315676
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9936183",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152519.032013,
+          221857.786972
+        ],
+        [
+          152515.398989,
+          221863.843036
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14686620,
+      "OIDN": 12904768,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152515.398989,
+        221857.786972,
+        152519.032013,
+        221863.843036
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9989983",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152512.899021,
+          221867.882972
+        ],
+        [
+          152513.067981,
+          221867.984988
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685720,
+      "OIDN": 12903868,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152512.899021,
+        221867.882972,
+        152513.067981,
+        221867.984988
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9998776",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152542.224973,
+          221855.65206
+        ],
+        [
+          152541.760973,
+          221857.383004
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687237,
+      "OIDN": 12905385,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152541.760973,
+        221855.65206,
+        152542.224973,
+        221857.383004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.9999175",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152527.274445,
+          221865.236188
+        ],
+        [
+          152528.438477,
+          221863.348188
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14686618,
+      "OIDN": 12904766,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152527.274445,
+        221863.348188,
+        152528.438477,
+        221865.236188
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10009706",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152496.335053,
+          221878.535004
+        ],
+        [
+          152496.483021,
+          221878.569948
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685738,
+      "OIDN": 12903886,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152496.335053,
+        221878.535004,
+        152496.483021,
+        221878.569948
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10030670",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152546.436045,
+          221857.449052
+        ],
+        [
+          152545.540045,
+          221857.187036
+        ],
+        [
+          152545.354061,
+          221857.136988
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687232,
+      "OIDN": 12905380,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152545.354061,
+        221857.136988,
+        152546.436045,
+        221857.449052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10033286",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152537.545677,
+          221877.814108
+        ],
+        [
+          152540.158157,
+          221878.663516
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687244,
+      "OIDN": 12905392,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152537.545677,
+        221877.814108,
+        152540.158157,
+        221878.663516
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10040368",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152515.398989,
+          221863.843036
+        ],
+        [
+          152515.151053,
+          221863.722972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685714,
+      "OIDN": 12903862,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152515.151053,
+        221863.722972,
+        152515.398989,
+        221863.843036
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10058997",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152538.990413,
+          221867.113052
+        ],
+        [
+          152539.535053,
+          221867.221852
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687240,
+      "OIDN": 12905388,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152538.990413,
+        221867.113052,
+        152539.535053,
+        221867.221852
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10120649",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152541.760973,
+          221857.383004
+        ],
+        [
+          152541.624013,
+          221857.346012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687238,
+      "OIDN": 12905386,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152541.624013,
+        221857.346012,
+        152541.760973,
+        221857.383004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10132485",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152548.538317,
+          221874.012252
+        ],
+        [
+          152550.655053,
+          221874.447452
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687532,
+      "OIDN": 12905680,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152548.538317,
+        221874.012252,
+        152550.655053,
+        221874.447452
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10136818",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152509.983053,
+          221872.713052
+        ],
+        [
+          152510.152013,
+          221872.81494
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685724,
+      "OIDN": 12903872,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152509.983053,
+        221872.713052,
+        152510.152013,
+        221872.81494
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10139641",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152498.714957,
+          221873.62006
+        ],
+        [
+          152498.894029,
+          221873.727964
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685734,
+      "OIDN": 12903882,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152498.714957,
+        221873.62006,
+        152498.894029,
+        221873.727964
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10150315",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152536.306509,
+          221876.178524
+        ],
+        [
+          152526.857677,
+          221870.603676
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685712,
+      "OIDN": 12903860,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152526.857677,
+        221870.603676,
+        152536.306509,
+        221876.178524
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10152467",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152595.497037,
+          221865.524956
+        ],
+        [
+          152598.084941,
+          221867.198044
+        ],
+        [
+          152600.473037,
+          221868.834012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14688759,
+      "OIDN": 12906907,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152595.497037,
+        221865.524956,
+        152600.473037,
+        221868.834012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10189256",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152526.857677,
+          221870.603676
+        ],
+        [
+          152529.280717,
+          221866.467292
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14686616,
+      "OIDN": 12904764,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152526.857677,
+        221866.467292,
+        152529.280717,
+        221870.603676
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10202126",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152580.182029,
+          221874.151004
+        ],
+        [
+          152573.755597,
+          221870.308956
+        ],
+        [
+          152568.061965,
+          221866.905052
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687878,
+      "OIDN": 12906026,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152568.061965,
+        221866.905052,
+        152580.182029,
+        221874.151004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10277754",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152545.354061,
+          221857.136988
+        ],
+        [
+          152545.514957,
+          221856.535004
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687233,
+      "OIDN": 12905381,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152545.354061,
+        221856.535004,
+        152545.514957,
+        221857.136988
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10290567",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152515.151053,
+          221863.722972
+        ],
+        [
+          152514.953037,
+          221864.059996
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685715,
+      "OIDN": 12903863,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152514.953037,
+        221863.722972,
+        152515.151053,
+        221864.059996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10323184",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152514.953037,
+          221864.059996
+        ],
+        [
+          152515.201997,
+          221864.206044
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14685716,
+      "OIDN": 12903864,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152514.953037,
+        221864.059996,
+        152515.201997,
+        221864.206044
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.10340809",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152560.244045,
+          221862.276956
+        ],
+        [
+          152551.169997,
+          221859.986012
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 14687528,
+      "OIDN": 12905676,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152551.169997,
+        221859.986012,
+        152560.244045,
+        221862.276956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.27559999",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152605.439821,
+          221861.231708
+        ],
+        [
+          152604.972877,
+          221861.94646
+        ],
+        [
+          152604.871757,
+          221862.101212
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36864869,
+      "OIDN": 34657225,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152604.871757,
+        221861.231708,
+        152605.439821,
+        221862.101212
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.27579727",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152582.539981,
+          221878.201052
+        ],
+        [
+          152579.759949,
+          221882.889948
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36863664,
+      "OIDN": 34656020,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152579.759949,
+        221878.201052,
+        152582.539981,
+        221882.889948
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.27819040",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152600.473037,
+          221868.834012
+        ],
+        [
+          152604.871757,
+          221862.101212
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36864867,
+      "OIDN": 34657223,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152600.473037,
+        221862.101212,
+        152604.871757,
+        221868.834012
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.27881513",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152559.143437,
+          221876.941532
+        ],
+        [
+          152563.889357,
+          221879.01782
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 36868038,
+      "OIDN": 12905992,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2015-04-28",
+      "bbox": [
+        152559.143437,
+        221876.941532,
+        152563.889357,
+        221879.01782
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.29197845",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152582.628941,
+          221856.939996
+        ],
+        [
+          152585.473869,
+          221852.82742
+        ],
+        [
+          152589.940877,
+          221846.369884
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 38997115,
+      "OIDN": 36518981,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152582.628941,
+        221846.369884,
+        152589.940877,
+        221856.939996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.29394306",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152555.221709,
+          221874.315676
+        ],
+        [
+          152560.244045,
+          221862.276956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 38997107,
+      "OIDN": 36518973,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152555.221709,
+        221862.276956,
+        152560.244045,
+        221874.315676
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.29562897",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152599.921613,
+          221858.867292
+        ],
+        [
+          152598.264525,
+          221861.360732
+        ],
+        [
+          152595.497037,
+          221865.524956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 38997116,
+      "OIDN": 36518982,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152595.497037,
+        221858.867292,
+        152599.921613,
+        221865.524956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.29702908",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152551.169997,
+          221859.986012
+        ],
+        [
+          152546.797389,
+          221872.101852
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 38997108,
+      "OIDN": 36518974,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152546.797389,
+        221859.986012,
+        152551.169997,
+        221872.101852
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.29978625",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152541.294989,
+          221875.500956
+        ],
+        [
+          152546.281997,
+          221858.62294
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 38997106,
+      "OIDN": 36518972,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152541.294989,
+        221858.62294,
+        152546.281997,
+        221875.500956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30207088",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152605.439821,
+          221861.231708
+        ],
+        [
+          152607.548429,
+          221858.004188
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39001489,
+      "OIDN": 36523355,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152605.439821,
+        221858.004188,
+        152607.548429,
+        221861.231708
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30379860",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152541.294989,
+          221875.500956
+        ],
+        [
+          152545.062861,
+          221876.697436
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39003187,
+      "OIDN": 36525053,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152541.294989,
+        221875.500956,
+        152545.062861,
+        221876.697436
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30526055",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152540.158157,
+          221878.663516
+        ],
+        [
+          152540.180877,
+          221878.600348
+        ],
+        [
+          152541.188301,
+          221875.797596
+        ],
+        [
+          152541.294989,
+          221875.500956
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39003480,
+      "OIDN": 35869724,
+      "TYPE": 8,
+      "LBLTYPE": "kadastrale gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152540.158157,
+        221875.500956,
+        152541.294989,
+        221878.663516
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.30757479",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152545.062861,
+          221876.697436
+        ],
+        [
+          152546.797389,
+          221872.101852
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 39003188,
+      "OIDN": 36525054,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2016-06-28",
+      "bbox": [
+        152545.062861,
+        221872.101852,
+        152546.797389,
+        221876.697436
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.35095597",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152534.029901,
+          221883.961116
+        ],
+        [
+          152535.446989,
+          221879.116892
+        ],
+        [
+          152536.306509,
+          221876.178524
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 44257258,
+      "OIDN": 40916270,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2018-07-19",
+      "bbox": [
+        152534.029901,
+        221876.178524,
+        152536.306509,
+        221883.961116
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.35698692",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152540.987021,
+          221855.810972
+        ],
+        [
+          152543.246285,
+          221852.013596
+        ],
+        [
+          152543.326989,
+          221851.87798
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 44890883,
+      "OIDN": 41410438,
+      "TYPE": 1,
+      "LBLTYPE": "terrestrische gevellijn",
+      "OPNDATUM": "2018-12-03",
+      "bbox": [
+        152540.987021,
+        221851.87798,
+        152543.326989,
+        221855.810972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.37530310",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152530.776525,
+          221864.6303
+        ],
+        [
+          152532.863501,
+          221860.82454
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 46774713,
+      "OIDN": 42587079,
+      "TYPE": 4,
+      "LBLTYPE": "fotogram. dakoversteek",
+      "OPNDATUM": "2020-02-13",
+      "bbox": [
+        152530.776525,
+        221860.82454,
+        152532.863501,
+        221864.6303
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.37530312",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152538.632333,
+          221863.929564
+        ],
+        [
+          152540.987021,
+          221855.810972
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 46774715,
+      "OIDN": 42587081,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2020-02-13",
+      "bbox": [
+        152538.632333,
+        221855.810972,
+        152540.987021,
+        221863.929564
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "GVL.37530313",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          152528.438477,
+          221863.348188
+        ],
+        [
+          152530.776525,
+          221864.6303
+        ]
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 46774716,
+      "OIDN": 42587082,
+      "TYPE": 6,
+      "LBLTYPE": "geconstrueerde gevellijn",
+      "OPNDATUM": "2020-02-13",
+      "bbox": [
+        152528.438477,
+        221863.348188,
+        152530.776525,
+        221864.6303
+      ]
+    }
+  }
+]

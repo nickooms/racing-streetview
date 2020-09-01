@@ -1,0 +1,22 @@
+{
+  "name": "racing-streetview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "earcut": "^2.2.2",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.4",
+    "proj4": "^2.6.2",
+    "puppeteer": "^5.2.1",
+    "request": "^2.88.2",
+    "simplify-js": "^1.2.4"
+  }
+}
