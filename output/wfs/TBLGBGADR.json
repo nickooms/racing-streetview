@@ -1,6 +1,72 @@
 [
   {
     "type": "Feature",
+    "id": "TBLGBGADR.2791959",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.829913,
+        221855.394792
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12530274,
+      "OIDN": 11693670,
+      "GBGOIDN": 6522284,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1R",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.829913,
+        221855.394792,
+        152531.829913,
+        221855.394792
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1696607",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.684136,
+        221880.269453
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10196509,
+      "OIDN": 9648532,
+      "GBGOIDN": 5175205,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.684136,
+        221880.269453,
+        152580.684136,
+        221880.269453
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.1833859",
     "geometry": {
       "type": "Point",
@@ -29,6 +95,105 @@
         221856.239073,
         152594.087412,
         221856.239073
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1807341",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152712.74448,
+        221864.341348
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9901756,
+      "OIDN": 9398788,
+      "GBGOIDN": 1875564,
+      "TYPE": 1,
+      "HUISNR": "16",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "16-16A",
+      "bbox": [
+        152712.74448,
+        221864.341348,
+        152712.74448,
+        221864.341348
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.675516",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152721.570421,
+        221917.28359
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12567113,
+      "OIDN": 7384362,
+      "GBGOIDN": 1875614,
+      "TYPE": 1,
+      "HUISNR": "3",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1R",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "3",
+      "bbox": [
+        152721.570421,
+        221917.28359,
+        152721.570421,
+        221917.28359
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1699962",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152712.74448,
+        221864.341348
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208799,
+      "OIDN": 5206859,
+      "GBGOIDN": 1875564,
+      "TYPE": 1,
+      "HUISNR": "16A",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "16-16A",
+      "bbox": [
+        152712.74448,
+        221864.341348,
+        152712.74448,
+        221864.341348
       ]
     }
   },
@@ -67,6 +232,204 @@
   },
   {
     "type": "Feature",
+    "id": "TBLGBGADR.2747568",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9834771,
+      "OIDN": 9341982,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "24",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1550370",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152721.570421,
+        221917.28359
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12619492,
+      "OIDN": 9780158,
+      "GBGOIDN": 1875614,
+      "TYPE": 1,
+      "HUISNR": "3",
+      "BUSNR": "GLVL",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "3",
+      "bbox": [
+        152721.570421,
+        221917.28359,
+        152721.570421,
+        221917.28359
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.738341",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152609.885947,
+        221864.721991
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208419,
+      "OIDN": 5206479,
+      "GBGOIDN": 1875173,
+      "TYPE": 1,
+      "HUISNR": "12",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "12",
+      "bbox": [
+        152609.885947,
+        221864.721991,
+        152609.885947,
+        221864.721991
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747525",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208561,
+      "OIDN": 5206621,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "26",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.760233",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152585.494313,
+        221895.218819
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9901330,
+      "OIDN": 9398432,
+      "GBGOIDN": 1875045,
+      "TYPE": 1,
+      "HUISNR": "31",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "31",
+      "bbox": [
+        152585.494313,
+        221895.218819,
+        152585.494313,
+        221895.218819
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3755695",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.459854,
+        221854.390924
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 13090420,
+      "OIDN": 12002519,
+      "GBGOIDN": 6749388,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1R",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.459854,
+        221854.390924,
+        152531.459854,
+        221854.390924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.2926139",
     "geometry": {
       "type": "Point",
@@ -95,6 +458,402 @@
         221864.14868,
         152522.574788,
         221864.14868
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2682281",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152688.802791,
+        221897.796602
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208740,
+      "OIDN": 5206800,
+      "GBGOIDN": 1875506,
+      "TYPE": 1,
+      "HUISNR": "4",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "4",
+      "bbox": [
+        152688.802791,
+        221897.796602,
+        152688.802791,
+        221897.796602
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2589595",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152700.844514,
+        221898.06553
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208775,
+      "OIDN": 5206835,
+      "GBGOIDN": 1875546,
+      "TYPE": 1,
+      "HUISNR": "8",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "8",
+      "bbox": [
+        152700.844514,
+        221898.06553,
+        152700.844514,
+        221898.06553
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3750683",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.459854,
+        221854.390924
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 13085408,
+      "OIDN": 11997507,
+      "GBGOIDN": 6749388,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.459854,
+        221854.390924,
+        152531.459854,
+        221854.390924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.652030",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152659.170574,
+        221851.619553
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208629,
+      "OIDN": 5206689,
+      "GBGOIDN": 1875376,
+      "TYPE": 1,
+      "HUISNR": "7",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "7",
+      "bbox": [
+        152659.170574,
+        221851.619553,
+        152659.170574,
+        221851.619553
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.787321",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152635.957905,
+        221917.411508
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208533,
+      "OIDN": 5206593,
+      "GBGOIDN": 1875286,
+      "TYPE": 1,
+      "HUISNR": "43",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "43",
+      "bbox": [
+        152635.957905,
+        221917.411508,
+        152635.957905,
+        221917.411508
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2596720",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152677.88653,
+        221865.638848
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10196353,
+      "OIDN": 9648376,
+      "GBGOIDN": 5174848,
+      "TYPE": 1,
+      "HUISNR": "12",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "12",
+      "bbox": [
+        152677.88653,
+        221865.638848,
+        152677.88653,
+        221865.638848
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.806319",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152588.481255,
+        221842.113337
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5804719,
+      "OIDN": 5206386,
+      "GBGOIDN": 1875066,
+      "TYPE": 1,
+      "HUISNR": "8",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "8",
+      "bbox": [
+        152588.481255,
+        221842.113337,
+        152588.481255,
+        221842.113337
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1976455",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152551.720277,
+        221916.544913
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 7792951,
+      "OIDN": 7531749,
+      "GBGOIDN": 1874890,
+      "TYPE": 1,
+      "HUISNR": "84",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "84-86",
+      "bbox": [
+        152551.720277,
+        221916.544913,
+        152551.720277,
+        221916.544913
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1882916",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152541.830672,
+        221911.339412
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9793474,
+      "OIDN": 9305509,
+      "GBGOIDN": 4869275,
+      "TYPE": 1,
+      "HUISNR": "82",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "82",
+      "bbox": [
+        152541.830672,
+        221911.339412,
+        152541.830672,
+        221911.339412
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.723073",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152585.494313,
+        221895.218819
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208311,
+      "OIDN": 5206371,
+      "GBGOIDN": 1875045,
+      "TYPE": 1,
+      "HUISNR": "31",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "31",
+      "bbox": [
+        152585.494313,
+        221895.218819,
+        152585.494313,
+        221895.218819
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2815752",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152510.607444,
+        221885.942935
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9942969,
+      "OIDN": 9433510,
+      "GBGOIDN": 1874587,
+      "TYPE": 1,
+      "HUISNR": "9",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "9",
+      "bbox": [
+        152510.607444,
+        221885.942935,
+        152510.607444,
+        221885.942935
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1822610",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.246124,
+        221888.402965
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 8442970,
+      "OIDN": 8039815,
+      "GBGOIDN": 1875027,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD2V",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.246124,
+        221888.402965,
+        152580.246124,
+        221888.402965
       ]
     }
   },
@@ -133,6 +892,39 @@
   },
   {
     "type": "Feature",
+    "id": "TBLGBGADR.1663243",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152604.643263,
+        221828.2383
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208389,
+      "OIDN": 5206449,
+      "GBGOIDN": 1875138,
+      "TYPE": 1,
+      "HUISNR": "5",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7335,
+      "STRAATNM": "Lombaardstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "5",
+      "bbox": [
+        152604.643263,
+        221828.2383,
+        152604.643263,
+        221828.2383
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.3351861",
     "geometry": {
       "type": "Point",
@@ -161,6 +953,369 @@
         221871.043203,
         152559.052757,
         221871.043203
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1845212",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152615.489992,
+        221869.606929
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208444,
+      "OIDN": 5206504,
+      "GBGOIDN": 1875205,
+      "TYPE": 1,
+      "HUISNR": "14",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "14",
+      "bbox": [
+        152615.489992,
+        221869.606929,
+        152615.489992,
+        221869.606929
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2759256",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.829913,
+        221855.394792
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12525853,
+      "OIDN": 11689249,
+      "GBGOIDN": 6522284,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1L",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.829913,
+        221855.394792,
+        152531.829913,
+        221855.394792
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1696605",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.684136,
+        221880.269453
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10196507,
+      "OIDN": 9648530,
+      "GBGOIDN": 5175205,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD2A",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.684136,
+        221880.269453,
+        152580.684136,
+        221880.269453
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.772903",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152593.91162,
+        221895.864927
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208353,
+      "OIDN": 5206413,
+      "GBGOIDN": 1875096,
+      "TYPE": 1,
+      "HUISNR": "33",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "33",
+      "bbox": [
+        152593.91162,
+        221895.864927,
+        152593.91162,
+        221895.864927
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2817504",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152648.439032,
+        221838.579262
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208590,
+      "OIDN": 5206650,
+      "GBGOIDN": 1875334,
+      "TYPE": 1,
+      "HUISNR": "11",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "11",
+      "bbox": [
+        152648.439032,
+        221838.579262,
+        152648.439032,
+        221838.579262
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683776",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152569.717477,
+        221831.930491
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12941571,
+      "OIDN": 11878820,
+      "GBGOIDN": 6251384,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLLI",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152569.717477,
+        221831.930491,
+        152569.717477,
+        221831.930491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2589587",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152704.782213,
+        221889.584103
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208786,
+      "OIDN": 5206846,
+      "GBGOIDN": 1875555,
+      "TYPE": 1,
+      "HUISNR": "10",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "10",
+      "bbox": [
+        152704.782213,
+        221889.584103,
+        152704.782213,
+        221889.584103
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3561524",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152721.926821,
+        221852.702921
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5805691,
+      "OIDN": 5206888,
+      "GBGOIDN": 1875596,
+      "TYPE": 1,
+      "HUISNR": "20",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "20",
+      "bbox": [
+        152721.926821,
+        221852.702921,
+        152721.926821,
+        221852.702921
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.723074",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152585.494313,
+        221895.218819
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208312,
+      "OIDN": 5206372,
+      "GBGOIDN": 1875045,
+      "TYPE": 1,
+      "HUISNR": "31",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "31",
+      "bbox": [
+        152585.494313,
+        221895.218819,
+        152585.494313,
+        221895.218819
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.620764",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152607.298315,
+        221823.599025
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5805313,
+      "OIDN": 5206455,
+      "GBGOIDN": 1875147,
+      "TYPE": 1,
+      "HUISNR": "7",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7335,
+      "STRAATNM": "Lombaardstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "7",
+      "bbox": [
+        152607.298315,
+        221823.599025,
+        152607.298315,
+        221823.599025
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2816159",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152652.798023,
+        221848.523332
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208602,
+      "OIDN": 5206662,
+      "GBGOIDN": 1875345,
+      "TYPE": 1,
+      "HUISNR": "9",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "9",
+      "bbox": [
+        152652.798023,
+        221848.523332,
+        152652.798023,
+        221848.523332
       ]
     }
   },
@@ -199,6 +1354,666 @@
   },
   {
     "type": "Feature",
+    "id": "TBLGBGADR.732125",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152714.669721,
+        221922.492803
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208814,
+      "OIDN": 5206874,
+      "GBGOIDN": 1875583,
+      "TYPE": 1,
+      "HUISNR": "1",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "1",
+      "bbox": [
+        152714.669721,
+        221922.492803,
+        152714.669721,
+        221922.492803
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683745",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152569.717477,
+        221831.930491
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12941624,
+      "OIDN": 11878873,
+      "GBGOIDN": 6251384,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1L",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152569.717477,
+        221831.930491,
+        152569.717477,
+        221831.930491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747526",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208562,
+      "OIDN": 5206622,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "26",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1976456",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152551.720277,
+        221916.544913
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 7792952,
+      "OIDN": 7531750,
+      "GBGOIDN": 1874890,
+      "TYPE": 1,
+      "HUISNR": "86",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1L",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "84-86",
+      "bbox": [
+        152551.720277,
+        221916.544913,
+        152551.720277,
+        221916.544913
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747569",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9834772,
+      "OIDN": 9341983,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "26",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2815996",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152641.857804,
+        221833.787378
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208550,
+      "OIDN": 5206610,
+      "GBGOIDN": 1875301,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152641.857804,
+        221833.787378,
+        152641.857804,
+        221833.787378
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1842247",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.246124,
+        221888.402965
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208296,
+      "OIDN": 5206356,
+      "GBGOIDN": 1875027,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.246124,
+        221888.402965,
+        152580.246124,
+        221888.402965
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2791960",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.829913,
+        221855.394792
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12508489,
+      "OIDN": 11671885,
+      "GBGOIDN": 6522284,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.829913,
+        221855.394792,
+        152531.829913,
+        221855.394792
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3755696",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.459854,
+        221854.390924
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 13090421,
+      "OIDN": 12002520,
+      "GBGOIDN": 6749388,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1A",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.459854,
+        221854.390924,
+        152531.459854,
+        221854.390924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747566",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208564,
+      "OIDN": 5206624,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "28",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1837421",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152674.558634,
+        221858.87918
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208680,
+      "OIDN": 5206740,
+      "GBGOIDN": 1875432,
+      "TYPE": 1,
+      "HUISNR": "1",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "1",
+      "bbox": [
+        152674.558634,
+        221858.87918,
+        152674.558634,
+        221858.87918
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3750833",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.459854,
+        221854.390924
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 13085558,
+      "OIDN": 11997657,
+      "GBGOIDN": 6749388,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1L",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.459854,
+        221854.390924,
+        152531.459854,
+        221854.390924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1882917",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152541.830672,
+        221911.339412
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9793475,
+      "OIDN": 9305510,
+      "GBGOIDN": 4869275,
+      "TYPE": 1,
+      "HUISNR": "82",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "82",
+      "bbox": [
+        152541.830672,
+        221911.339412,
+        152541.830672,
+        221911.339412
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2682274",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152682.948312,
+        221887.457107
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208706,
+      "OIDN": 5206766,
+      "GBGOIDN": 1875466,
+      "TYPE": 1,
+      "HUISNR": "4",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "4",
+      "bbox": [
+        152682.948312,
+        221887.457107,
+        152682.948312,
+        221887.457107
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1822608",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.246124,
+        221888.402965
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 8442968,
+      "OIDN": 8039813,
+      "GBGOIDN": 1875027,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.246124,
+        221888.402965,
+        152580.246124,
+        221888.402965
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1778784",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152711.641624,
+        221872.469252
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208807,
+      "OIDN": 5206867,
+      "GBGOIDN": 1875572,
+      "TYPE": 1,
+      "HUISNR": "14",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "14",
+      "bbox": [
+        152711.641624,
+        221872.469252,
+        152711.641624,
+        221872.469252
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1797221",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152626.430975,
+        221878.083686
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10371720,
+      "OIDN": 9780155,
+      "GBGOIDN": 1875246,
+      "TYPE": 1,
+      "HUISNR": "18",
+      "BUSNR": "RHTS",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "18",
+      "bbox": [
+        152626.430975,
+        221878.083686,
+        152626.430975,
+        221878.083686
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1911751",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152709.299304,
+        221882.92839
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208806,
+      "OIDN": 5206866,
+      "GBGOIDN": 1875571,
+      "TYPE": 1,
+      "HUISNR": "12",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "12",
+      "bbox": [
+        152709.299304,
+        221882.92839,
+        152709.299304,
+        221882.92839
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747567",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208565,
+      "OIDN": 5206625,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "30",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747524",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208560,
+      "OIDN": 5206620,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "24",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.1886650",
     "geometry": {
       "type": "Point",
@@ -227,6 +2042,303 @@
         221877.607518,
         152570.348974,
         221877.607518
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1696606",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.684136,
+        221880.269453
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10196508,
+      "OIDN": 9648531,
+      "GBGOIDN": 5175205,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD2V",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.684136,
+        221880.269453,
+        152580.684136,
+        221880.269453
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3325101",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152718.005143,
+        221860.189233
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5804987,
+      "OIDN": 5206891,
+      "GBGOIDN": 1875597,
+      "TYPE": 1,
+      "HUISNR": "18",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "18",
+      "bbox": [
+        152718.005143,
+        221860.189233,
+        152718.005143,
+        221860.189233
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.760232",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152585.494313,
+        221895.218819
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9901329,
+      "OIDN": 9398431,
+      "GBGOIDN": 1875045,
+      "TYPE": 1,
+      "HUISNR": "31",
+      "BUSNR": "nvt",
+      "APPARTNR": "ACHT",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "31",
+      "bbox": [
+        152585.494313,
+        221895.218819,
+        152585.494313,
+        221895.218819
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.784374",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152604.202747,
+        221817.140372
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208404,
+      "OIDN": 5206464,
+      "GBGOIDN": 1875157,
+      "TYPE": 1,
+      "HUISNR": "9",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7335,
+      "STRAATNM": "Lombaardstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "9",
+      "bbox": [
+        152604.202747,
+        221817.140372,
+        152604.202747,
+        221817.140372
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.675515",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152721.570421,
+        221917.28359
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12567112,
+      "OIDN": 7384361,
+      "GBGOIDN": 1875614,
+      "TYPE": 1,
+      "HUISNR": "3",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1L",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "3",
+      "bbox": [
+        152721.570421,
+        221917.28359,
+        152721.570421,
+        221917.28359
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683777",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152569.717477,
+        221831.930491
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12941643,
+      "OIDN": 11878892,
+      "GBGOIDN": 6251384,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLRE",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152569.717477,
+        221831.930491,
+        152569.717477,
+        221831.930491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1699961",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152712.74448,
+        221864.341348
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208798,
+      "OIDN": 5206858,
+      "GBGOIDN": 1875564,
+      "TYPE": 1,
+      "HUISNR": "16",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "16-16A",
+      "bbox": [
+        152712.74448,
+        221864.341348,
+        152712.74448,
+        221864.341348
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1995678",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152559.057699,
+        221920.714914
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 6597295,
+      "OIDN": 5206285,
+      "GBGOIDN": 1874928,
+      "TYPE": 1,
+      "HUISNR": "90",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "90",
+      "bbox": [
+        152559.057699,
+        221920.714914,
+        152559.057699,
+        221920.714914
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3540071",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152694.917679,
+        221898.092464
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5803704,
+      "OIDN": 5206819,
+      "GBGOIDN": 1875526,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152694.917679,
+        221898.092464,
+        152694.917679,
+        221898.092464
       ]
     }
   },
@@ -265,6 +2377,237 @@
   },
   {
     "type": "Feature",
+    "id": "TBLGBGADR.1970852",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152633.008241,
+        221884.069956
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208526,
+      "OIDN": 5206586,
+      "GBGOIDN": 1875280,
+      "TYPE": 1,
+      "HUISNR": "20",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "20",
+      "bbox": [
+        152633.008241,
+        221884.069956,
+        152633.008241,
+        221884.069956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.772904",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152593.91162,
+        221895.864927
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208354,
+      "OIDN": 5206414,
+      "GBGOIDN": 1875096,
+      "TYPE": 1,
+      "HUISNR": "33",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "33",
+      "bbox": [
+        152593.91162,
+        221895.864927,
+        152593.91162,
+        221895.864927
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2759257",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.829913,
+        221855.394792
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12530595,
+      "OIDN": 11693991,
+      "GBGOIDN": 6522284,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.829913,
+        221855.394792,
+        152531.829913,
+        221855.394792
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1807340",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152712.74448,
+        221864.341348
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9901755,
+      "OIDN": 9398787,
+      "GBGOIDN": 1875564,
+      "TYPE": 1,
+      "HUISNR": "16",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7264,
+      "STRAATNM": "Antwerpse Steenweg",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "16-16A",
+      "bbox": [
+        152712.74448,
+        221864.341348,
+        152712.74448,
+        221864.341348
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3375048",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152551.720277,
+        221916.544913
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208183,
+      "OIDN": 5206243,
+      "GBGOIDN": 1874890,
+      "TYPE": 1,
+      "HUISNR": "84",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "84-86",
+      "bbox": [
+        152551.720277,
+        221916.544913,
+        152551.720277,
+        221916.544913
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.713417",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152619.49122,
+        221873.171846
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208472,
+      "OIDN": 5206532,
+      "GBGOIDN": 1875229,
+      "TYPE": 1,
+      "HUISNR": "16",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "16",
+      "bbox": [
+        152619.49122,
+        221873.171846,
+        152619.49122,
+        221873.171846
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.3755697",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.459854,
+        221854.390924
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 13090422,
+      "OIDN": 12002521,
+      "GBGOIDN": 6749388,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.459854,
+        221854.390924,
+        152531.459854,
+        221854.390924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.1905654",
     "geometry": {
       "type": "Point",
@@ -298,6 +2641,204 @@
   },
   {
     "type": "Feature",
+    "id": "TBLGBGADR.2815708",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152556.051093,
+        221820.562737
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 6381122,
+      "OIDN": 6177517,
+      "GBGOIDN": 1874878,
+      "TYPE": 1,
+      "HUISNR": "2",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "2",
+      "bbox": [
+        152556.051093,
+        221820.562737,
+        152556.051093,
+        221820.562737
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683394",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152669.177214,
+        221858.051146
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208661,
+      "OIDN": 5206721,
+      "GBGOIDN": 1875417,
+      "TYPE": 1,
+      "HUISNR": "3",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "3",
+      "bbox": [
+        152669.177214,
+        221858.051146,
+        152669.177214,
+        221858.051146
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747527",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208563,
+      "OIDN": 5206623,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "28",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER1",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2747570",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152653.828815,
+        221892.046601
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9834773,
+      "OIDN": 9341984,
+      "GBGOIDN": 1875314,
+      "TYPE": 1,
+      "HUISNR": "30",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "24-30",
+      "bbox": [
+        152653.828815,
+        221892.046601,
+        152653.828815,
+        221892.046601
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1882915",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152541.830672,
+        221911.339412
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9793473,
+      "OIDN": 9305508,
+      "GBGOIDN": 4869275,
+      "TYPE": 1,
+      "HUISNR": "82",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "82",
+      "bbox": [
+        152541.830672,
+        221911.339412,
+        152541.830672,
+        221911.339412
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1976457",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152551.720277,
+        221916.544913
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 7792953,
+      "OIDN": 7531751,
+      "GBGOIDN": 1874890,
+      "TYPE": 1,
+      "HUISNR": "86",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1R",
+      "STRAATNMID": 7397,
+      "STRAATNM": "Witvenstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "84-86",
+      "bbox": [
+        152551.720277,
+        221916.544913,
+        152551.720277,
+        221916.544913
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "TBLGBGADR.3336079",
     "geometry": {
       "type": "Point",
@@ -326,6 +2867,336 @@
         221865.824045,
         152541.954634,
         221865.824045
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2759258",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152531.829913,
+        221855.394792
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12530596,
+      "OIDN": 11693992,
+      "GBGOIDN": 6522284,
+      "TYPE": 1,
+      "HUISNR": "13",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1A",
+      "STRAATNMID": 7297,
+      "STRAATNM": "Frans Oomsplein",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "13",
+      "bbox": [
+        152531.829913,
+        221855.394792,
+        152531.829913,
+        221855.394792
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2750642",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152637.427411,
+        221887.687554
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 9793767,
+      "OIDN": 9305802,
+      "GBGOIDN": 4869425,
+      "TYPE": 1,
+      "HUISNR": "22",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "22",
+      "bbox": [
+        152637.427411,
+        221887.687554,
+        152637.427411,
+        221887.687554
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1839718",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152627.425099,
+        221916.031707
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208492,
+      "OIDN": 5206552,
+      "GBGOIDN": 1875248,
+      "TYPE": 1,
+      "HUISNR": "41",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "41",
+      "bbox": [
+        152627.425099,
+        221916.031707,
+        152627.425099,
+        221916.031707
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683775",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152569.717477,
+        221831.930491
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12941625,
+      "OIDN": 11878874,
+      "GBGOIDN": 6251384,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "VER2",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152569.717477,
+        221831.930491,
+        152569.717477,
+        221831.930491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683778",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152569.717477,
+        221831.930491
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 12941644,
+      "OIDN": 11878893,
+      "GBGOIDN": 6251384,
+      "TYPE": 1,
+      "HUISNR": "6",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD1R",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "6",
+      "bbox": [
+        152569.717477,
+        221831.930491,
+        152569.717477,
+        221831.930491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2683317",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152662.654628,
+        221855.353047
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208642,
+      "OIDN": 5206702,
+      "GBGOIDN": 1875393,
+      "TYPE": 1,
+      "HUISNR": "5",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7365,
+      "STRAATNM": "Rekkestraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "5",
+      "bbox": [
+        152662.654628,
+        221855.353047,
+        152662.654628,
+        221855.353047
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1696604",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.684136,
+        221880.269453
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 10196506,
+      "OIDN": 9648529,
+      "GBGOIDN": 5175205,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "GLVL",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.684136,
+        221880.269453,
+        152580.684136,
+        221880.269453
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.2002265",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152615.390881,
+        221912.120692
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208431,
+      "OIDN": 5206491,
+      "GBGOIDN": 1875192,
+      "TYPE": 1,
+      "HUISNR": "39",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "39",
+      "bbox": [
+        152615.390881,
+        221912.120692,
+        152615.390881,
+        221912.120692
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1972341",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152599.652562,
+        221830.989791
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 5208384,
+      "OIDN": 5206444,
+      "GBGOIDN": 1875128,
+      "TYPE": 1,
+      "HUISNR": "3",
+      "BUSNR": "nvt",
+      "APPARTNR": "nvt",
+      "STRAATNMID": 7335,
+      "STRAATNM": "Lombaardstraat",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "3",
+      "bbox": [
+        152599.652562,
+        221830.989791,
+        152599.652562,
+        221830.989791
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "TBLGBGADR.1822609",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152580.246124,
+        221888.402965
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 8442969,
+      "OIDN": 8039814,
+      "GBGOIDN": 1875027,
+      "TYPE": 1,
+      "HUISNR": "29",
+      "BUSNR": "nvt",
+      "APPARTNR": "VD2A",
+      "STRAATNMID": 7338,
+      "STRAATNM": "Markt",
+      "NISCODE": "11044",
+      "GEMEENTE": "Stabroek",
+      "POSTCODE": 2940,
+      "HNRLABEL": "29",
+      "bbox": [
+        152580.246124,
+        221888.402965,
+        152580.246124,
+        221888.402965
       ]
     }
   }

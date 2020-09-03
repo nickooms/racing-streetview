@@ -1,6 +1,81 @@
 [
   {
     "type": "Feature",
+    "id": "WPI.412760",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152537.749965,
+        221843.920988
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633669,
+      "OIDN": 561419,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152537.749965,
+        221843.920988,
+        152537.749965,
+        221843.920988
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.193714",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152692.904013,
+        221906.794972
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633979,
+      "OIDN": 561729,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152692.904013,
+        221906.794972,
+        152692.904013,
+        221906.794972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.650885",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152640.461005,
+        221846.521052
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 634072,
+      "OIDN": 561822,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152640.461005,
+        221846.521052,
+        152640.461005,
+        221846.521052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "WPI.234384",
     "geometry": {
       "type": "Point",
@@ -21,6 +96,181 @@
         221869.481052,
         152510.605005,
         221869.481052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.136368",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152697.320013,
+        221888.023004
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 634071,
+      "OIDN": 561821,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152697.320013,
+        221888.023004,
+        152697.320013,
+        221888.023004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.302774",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152714.645965,
+        221887.865052
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633973,
+      "OIDN": 561723,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152714.645965,
+        221887.865052,
+        152714.645965,
+        221887.865052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.31468",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152524.123981,
+        221817.796956
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633670,
+      "OIDN": 561420,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152524.123981,
+        221817.796956,
+        152524.123981,
+        221817.796956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.63582",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152525.311053,
+        221844.713948
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633612,
+      "OIDN": 561362,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152525.311053,
+        221844.713948,
+        152525.311053,
+        221844.713948
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.588945",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152615.787981,
+        221883.754972
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633978,
+      "OIDN": 561728,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152615.787981,
+        221883.754972,
+        152615.787981,
+        221883.754972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.162958",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152523.380045,
+        221923.71606
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633964,
+      "OIDN": 561714,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152523.380045,
+        221923.71606,
+        152523.380045,
+        221923.71606
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.192064",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152594.463053,
+        221919.76406
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633940,
+      "OIDN": 561690,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152594.463053,
+        221919.76406,
+        152594.463053,
+        221919.76406
       ]
     }
   },
@@ -51,6 +301,56 @@
   },
   {
     "type": "Feature",
+    "id": "WPI.758274",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152663.466957,
+        221921.66102
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633992,
+      "OIDN": 561742,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152663.466957,
+        221921.66102,
+        152663.466957,
+        221921.66102
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.27894",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152680.031053,
+        221881.259996
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 634070,
+      "OIDN": 561820,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152680.031053,
+        221881.259996,
+        152680.031053,
+        221881.259996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
     "id": "WPI.800573",
     "geometry": {
       "type": "Point",
@@ -71,6 +371,81 @@
         221859.635036,
         152561.569997,
         221859.635036
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.172342",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152496.206029,
+        221913.94198
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633660,
+      "OIDN": 561410,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152496.206029,
+        221913.94198,
+        152496.206029,
+        221913.94198
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.720659",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152655.135949,
+        221867.879004
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 634069,
+      "OIDN": 561819,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152655.135949,
+        221867.879004,
+        152655.135949,
+        221867.879004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "WPI.176994",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        152581.573965,
+        221842.521948
+      ]
+    },
+    "geometry_name": "SHAPE",
+    "properties": {
+      "UIDN": 633949,
+      "OIDN": 561699,
+      "TYPE": 1,
+      "LBLTYPE": "paal",
+      "OPNDATUM": "2010-05-17",
+      "bbox": [
+        152581.573965,
+        221842.521948,
+        152581.573965,
+        221842.521948
       ]
     }
   }
