@@ -1,3 +1,11 @@
 /cache
 /node_modules
 output/**/*.json
+output/wfs/ADP.json
+output/wfs/GBA.json
+output/wfs/GVL.json
+output/wfs/TBLGBGADR.json
+output/wfs/WBN.json
+output/wfs/WGO.json
+output/wfs/WPI.json
+output/wfs/WRI.json
