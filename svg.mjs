@@ -6,17 +6,22 @@ export const svg = ({ content, viewBox }) => `
     transform="scale(1 -1)"
     xmlns="http://www.w3.org/2000/svg"
   >
-    ${content}
+    ${Array.isArray(content) ? content.join('\n') : content}
   </svg>
 `;
 
-export const circle = ([x, y], { r = 0.2, fill = 'black' } = {}) => `
+export const circle = (
+  [x, y],
+  { r = 0.2, fill = 'black', stroke = 'black', strokeWidth = 0.2 } = {}
+) => `
   <circle
     cx="${x}"
     cy="${y}"
     r="${r}"
-    fill="${fill}
-  "/>
+    fill="${fill}"
+    stroke="${stroke}"
+    stroke-width="${strokeWidth}"
+  />
 `;
 
 export const text = ([x, y], value, { font = '3px serif', fill = 'black' } = {}) => `
@@ -55,3 +60,9 @@ export const polygon = (
     stroke-width="${strokeWidth}"
   />
 `;
+
+export const styledPolygon = (style) => (feature) =>
+  polygon(getCoordinates(feature), style(feature));
+
+export const styledPolyLine = (style) => (feature) =>
+  polyLine(getCoordinates(feature), style(feature));

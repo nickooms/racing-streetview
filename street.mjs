@@ -1,161 +1,98 @@
-import { parsePolygon } from './wkt.mjs';
 import BBOX from './bbox.mjs';
-import { getFeature } from './wfs.mjs';
+import { getFeature, setBBOX } from './wfs.mjs';
 import fs from 'fs/promises';
-import { svg, polyLine, polygon, circle, text } from './svg.mjs';
-import { City, Street, Housenumber, Building } from './model/index.mjs';
+import { svg, styledPolyLine as polyLine, styledPolygon as polygon, circle } from './svg.mjs';
+import * as Location from './location.mjs';
 
 const CITY_NAME = 'stabroek';
 const STREET_NAME = 'markt';
 const ENCODING = 'utf8';
 
-const add = (a, b) => a + b;
-const add1 = (x) => add(1, x);
-
-const unique = (array) => [...new Set(array)];
-
-const reverse = (point) => point.reverse();
-
 const getCoordinates = (feature) => feature.geometry.coordinates;
-
-const getGeometrie = (crabObject) => crabObject.Geometrie;
-
-const json = (object) => JSON.stringify(object, null, 2);
 
 const writeWFS = async (layer) => {
   const { features } = await getFeature(layer);
-  await fs.writeFile(`output/wfs/${layer}.json`, json(features), ENCODING);
   return features;
 };
 
-const styles = {
-  ADP: { fill: '#FFFF7F', stroke: '#FFBF00' },
-  TRN: { fill: '#C0C0C0', stroke: '#848484' },
-  WRI: { r: 0.6 },
-  WVB: {
-    stroke: 'white',
-    strokeWidth: 0.5,
-    strokeDasharray: '2 1',
-  },
-  GBA: {
-    fill: '#CCCC66',
-    strokeWidth: 0.353,
-    stroke: '#CC0099',
-  },
-  WBN: (feature) => ({
-    stroke: '#333333',
-    strokeWidth: 0.353,
-    fill: feature.properties.TYPE === 1 ? '#ADADAD' : '#D6D6D6',
-    fillOpacity: 1,
-  }),
+const getType = (feature) => feature.properties.TYPE;
+
+const getWGOStroke = (feature) => {
+  switch (getType(feature)) {
+    case 1:
+      return '#BF00FF';
+    case 2:
+      return '#FFD700';
+    case 3:
+      return '#984C00';
+  }
 };
 
+const styles = {
+  ADP: () => ({ strokeWidth: 0.2, fill: '#FFFF7F', stroke: '#FFBF00' }),
+  TRN: () => ({ strokeWidth: 0.2, fill: '#C0C0C0', stroke: '#848484' }),
+  WRI: { r: 0.8, stroke: '#000000', fill: '#999999', strokeWidth: 0.2 },
+  WVB: () => ({
+    stroke: '#FFFFFF',
+    strokeWidth: 0.5,
+    strokeDasharray: '2 1',
+  }),
+  GBA: () => ({
+    fill: '#CCCC66',
+    strokeWidth: 0.2,
+    stroke: '#CC0099',
+  }),
+  WBN: (feature) => ({
+    stroke: '#333333',
+    strokeWidth: 0.2,
+    fill: getType(feature) === 1 ? '#ADADAD' : '#D6D6D6',
+    fillOpacity: 1,
+  }),
+  WGO: (feature) => ({
+    strokeWidth: 0.2,
+    stroke: getWGOStroke(feature),
+  }),
+  GBG: () => ({ strokeWidth: 0.2, stroke: 'red', fill: 'red' }),
+  WPI: { r: 0.5 },
+  GVL_1: () => ({ stroke: '#000000' }),
+};
+
+const isType1 = (feature) => getType(feature) === 1;
+
 const main = async () => {
-  const bboxPolyLines = new BBOX();
-  const city = await City.byName(CITY_NAME);
-
-  const street = await Street.byName(STREET_NAME, city);
-  const housenumbers = await Street.housenumbers(street);
-
-  const buildingIds = (await Promise.all(housenumbers.map(Housenumber.buildings)))
-    .flat()
-    .map(Building.getId);
-  const buildings = await Promise.all(unique(buildingIds).map(Building.get));
-  bboxPolyLines.add(...buildings.map(getGeometrie).map(parsePolygon).flat().map(reverse));
-
-  const grounds = await writeWFS('TRN');
-
-  const parcels = await writeWFS('ADP');
-
-  const roads = await writeWFS('WBN');
-  const { features } = await getFeature('WVB');
-  const lines = features;
-  const polyLines = lines.map((line) => polyLine(getCoordinates(line), styles.WVB));
-  const points = lines.map((line) => getCoordinates(line).map((point) => circle(point))).flat();
-  bboxPolyLines.add(...lines.map((line) => getCoordinates(line)).flat());
-
-  const getWGOStroke = (division) => {
-    switch (division.properties.TYPE) {
-      case 1: // grens zone zwakke weggebruiker (wcz)
-        return '#BF00FF';
-      case 2: // grens onverharde zone (woz)
-        return '#FFD700';
-      case 3: // rand van de rijbaan (wrb)
-        return '#984C00';
-    }
-  };
-
-  const buildingAdditions = await writeWFS('GBA');
-
-  const roadDivisions = await writeWFS('WGO');
-  const divisions = roadDivisions.map((division) =>
-    polyLine(getCoordinates(division), {
-      strokeWidth: 0.353,
-      stroke: getWGOStroke(division),
-    })
-  );
-
-  const poles = await writeWFS('WPI');
-  const lightPoles = poles.map((pole) => circle(getCoordinates(pole), { r: 0.5 }));
-
-  const walls = await writeWFS('GVL');
-  const frontWalls = walls.filter((wall) => wall.properties.TYPE === 1);
-
-  const frontWallLines = frontWalls.map((wall) => {
-    bboxPolyLines.add(...getCoordinates(wall));
-    return polyLine(getCoordinates(wall), { stroke: 'black' });
-  });
-
-  const frontWallPoints = frontWalls.map((wall) => getCoordinates(wall).map(circle)).flat();
-
-  const buildingHousenumbers = await writeWFS('TBLGBGADR');
-  const housenumbersBuildings = buildingHousenumbers.map((buildingHousenumber) => {
-    const coordinates = getCoordinates(buildingHousenumber);
-    return [
-      circle(coordinates),
-      text(coordinates.map(add1), buildingHousenumber.properties.HNRLABEL),
-    ];
-  });
-
-  const holes = await writeWFS('WRI');
-  const manHoles = holes.map((hole) => circle(getCoordinates(hole), styles.WRI));
-
-  const { min, width, height } = bboxPolyLines;
+  const location = await Location.street(CITY_NAME, STREET_NAME);
+  const bbox = new BBOX(...location.boundingBox);
+  bbox.grow(2);
+  setBBOX(bbox);
+  const { min, width, height } = bbox;
+  const viewBox = [...min, width, height].join(' ');
+  const gbg = await writeWFS('GBG');
+  const wbn = await writeWFS('WBN');
+  const trn = await writeWFS('TRN');
+  const adp = await writeWFS('ADP');
+  const gba = await writeWFS('GBA');
+  const wvb = await writeWFS('WVB');
+  const wpi = await writeWFS('WPI');
+  const gvl = await writeWFS('GVL');
+  const wri = await writeWFS('WRI');
+  const wgo = await writeWFS('WGO');
+  const frontWalls = gvl.filter(isType1);
   const svgFile = svg({
-    viewBox: [...min, width, height].join(' '),
+    viewBox,
     content: [
-      ...parcels.map((parcel) => polygon(getCoordinates(parcel), styles.ADP)),
-      ...grounds.map((ground) => polygon(getCoordinates(ground), styles.TRN)),
-      ...roads
-        .map((road) => [road, getCoordinates(road)])
-        .map(([road, pol]) =>
-          polygon(
-            pol.map((p) => p.reverse()),
-            styles.WBN(road)
-            // {
-            //   stroke: '#333333',
-            //   strokeWidth: 0.353,
-            //   fill: road.properties.TYPE === 1 ? '#ADADAD' : '#D6D6D6',
-            //   fillOpacity: 1,
-            // }
-          )
-        ),
-      ...buildings
-        .map((building) => parsePolygon(building.Geometrie))
-        .map((pol) => {
-          bboxPolyLines.add(...pol.map((p) => p.reverse()));
-          return polygon(pol, { stroke: 'red', fill: 'red' });
-        }),
-      ...buildingAdditions.map((addition) => polygon(getCoordinates(addition), styles.GBA)),
-      ...polyLines,
-      ...divisions,
-      ...points,
-      ...frontWallLines,
-      ...frontWallPoints,
-      ...lightPoles,
-      ...housenumbersBuildings,
-      ...manHoles,
-    ].join('\n'),
+      adp.map(polygon(styles.ADP)),
+      trn.map(polygon(styles.TRN)),
+      wbn.map(polygon(styles.WBN)),
+      gbg.map(polygon(styles.GBG)),
+      gba.map(polygon(styles.GBA)),
+      wvb.map(polyLine(styles.WVB)),
+      wgo.map(polyLine(styles.WGO)),
+      wvb.map((line) => getCoordinates(line).map(circle)).flat(),
+      frontWalls.map(polyLine(styles.GVL_1)),
+      frontWalls.map((wall) => getCoordinates(wall).map(circle)).flat(),
+      wpi.map((pole) => circle(getCoordinates(pole), styles.WPI)),
+      wri.map((hole) => circle(getCoordinates(hole), styles.WRI)),
+    ].flat(),
   });
   await fs.writeFile('test.svg', svgFile, ENCODING);
 };

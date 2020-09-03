@@ -20,6 +20,11 @@ export default class BBOX {
     });
   }
 
+  grow(size = 1) {
+    this.min = [this.min[X] - size, this.min[Y] - size];
+    this.max = [this.max[X] + size, this.max[Y] + size];
+  }
+
   get width() {
     return this.max[X] - this.min[X];
   }

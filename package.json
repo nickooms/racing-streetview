@@ -1,13 +1,13 @@
 {
   "name": "racing-streetview",
   "version": "1.0.0",
-  "description": "",
+  "description": "Racing Streetview",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon street.mjs"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nick Ooms",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.6.1",
